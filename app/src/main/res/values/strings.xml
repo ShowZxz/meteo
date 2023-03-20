@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LaMeteoDuJours</string>
+    <string name="search_places">Search Places</string>
+    <string name="demo_date">15 Mars, 20:20 </string>
+    <string name="default_number">50</string>
+    <string name="pressure">Pression</string>
+    <string name="max_temp">Max temp</string>
+    <string name="humidity">Humidite</string>
+    <string name="min_temp">Min temp</string>
+    <string name="wind_speed">Vitesse vent</string>
+    <string name="temperature">Temperature</string>
+    <string name="day">Day 14</string>
+    <string name="night">Night 10</string>
+    <string name="main_temp">18*</string>
+    <string name="feels_alike">Feels like 18*</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="sunrise">Leve</string>
+    <string name="sunset">Couche</string>
+
+</resources>
